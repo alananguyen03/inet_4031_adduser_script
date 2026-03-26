@@ -1,4 +1,4 @@
-# # INET 4031 Automating User Management 
+# INET 4031 Automating User Management 
 
 ## Program Description
 This program uses Python to automate the creation of user accounts on an Ubuntu system. Automating these commands will help the user save time and reduce the chances of mistakes. Normally to add a user, the following commands would need to be used: 'sudo adduser <username>,' 'sudo passwd <username>,' and 'sudo adduser <username> <group>.' The code reads a file containing user information and executes comamnds to create users and assign group assignments, which is equivalent to running the above commands. 
